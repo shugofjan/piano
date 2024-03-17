@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #6b3e3e;
+    height: 100vh;
+    box-sizing: border-box;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.box1{
+    background-color: #fff;
+    width: 5em;
+    height: 20em;
+    border-top-left-radius: 5px;
+}
+.box2{
+    background-color: #080808;
+    width: 5em;
+    height: 20em;
+}
+.box3{
+    background-color: #fff;
+    width: 5em;
+    height: 20em;
+}
+.box4{
+    background-color: #080808;
+    width: 5em;
+    height: 20em;
+}
+.box5{
+    background-color: #fff;
+    width: 5em;
+    height: 20em;
+}
+.box6{
+    background-color: #080808;
+    width: 5em;
+    height: 20em;
+}
+.box7{
+    background-color: #fff;
+    width: 5em;
+    height: 20em;
+}
+.box8{
+    background-color: #080808;
+    width: 5em;
+    height: 20em;
+}
+.box9{
+    background-color: #fff;
+    width: 5em;
+    height: 20em;
+}
+.box10{
+    background-color: #080808;
+    width: 5em;
+    height: 20em;
+    border-top-right-radius: 5px;
+}
+.main{
+    width: 50em;
+    background :url(https://cdn.pixabay.com/photo/2015/01/07/16/37/wood-591631_640.jpg);
+    height: 30em;
+
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+   border-radius: 5px;
+}
